@@ -21,7 +21,7 @@ A simple two-player Tic Tac Toe game for the console, written in Java. Players t
 Open your terminal or command prompt and run:
 
 ```
-git clone https://github.com/hr7op/TicTacToe.git
+git clone https://github.com/hr7op/tic-tac-toe.git
 ```
 
 Or download the ZIP file and extract it.
@@ -29,7 +29,7 @@ Or download the ZIP file and extract it.
 ### 2. Navigate to the Project Directory
 
 ```
-cd TicTacToe
+cd tic-tac-toe
 ```
 
 ### 3. Compile the Source Files
@@ -64,7 +64,7 @@ java Game
 ## File Structure
 
 ```
-TicTacToe/
+tic-tac-toe/
 ├── src/
 │   ├── Game.java
 │   ├── User1.java

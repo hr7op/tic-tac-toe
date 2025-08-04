@@ -72,7 +72,8 @@ public class Game {
                         break;
                     }
                     currentPlayer = 'O';
-                }
+                } else
+                    System.out.println("Already filled!");
             } else {
                 User2.input(in);
                 int row = User2.user2Row - 1;
@@ -89,7 +90,8 @@ public class Game {
                         break;
                     }
                     currentPlayer = 'X';
-                }
+                } else
+                    System.out.println("Already filled!");
             }
         }
         if (!win) {
